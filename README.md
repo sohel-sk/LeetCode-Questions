@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
