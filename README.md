@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -39,4 +41,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
