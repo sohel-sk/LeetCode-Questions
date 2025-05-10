@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
@@ -49,9 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
