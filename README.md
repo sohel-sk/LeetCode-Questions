@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
