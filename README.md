@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/sohel-sk/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sohel-sk/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/sohel-sk/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sohel-sk/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Recursion
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohel-sk/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/sohel-sk/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -80,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/sohel-sk/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/sohel-sk/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
